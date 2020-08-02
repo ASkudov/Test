@@ -30,4 +30,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <constants>Constant.Константа1</constants>
+  <catalogs>Catalog.Справочник</catalogs>
 </mdclass:Configuration>
